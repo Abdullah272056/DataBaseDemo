@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DataBaseDemo</string>
+
+    <string-array name="department">
+        <item> Computer</item>
+        <item> Civil</item>
+        <item> Electronics</item>
+        <item> Environment</item>
+        <item> Electrical</item>
+        <item> Others</item>
+    </string-array>
+
+    <string-array name="shift">
+        <item>1st shift</item>
+        <item>2nd  shift</item>
+    </string-array>
+
+</resources>
